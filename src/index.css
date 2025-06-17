@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.custom-scroll-hide::-webkit-scrollbar {
+  display: none;
+}
+.custom-scroll-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
