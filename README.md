@@ -41,7 +41,7 @@ Atau sesuai alamat yang muncul di terminal setelah menjalankan `npm run dev`.
 
 Website ini juga bisa diakses secara online melalui link berikut:
 
-👉 **[www.history-ukdw.com](http://www.history-ukdw.com)**
+👉 **[www.history-ukdw.com](https://history-ukdw.vercel.app/)**
 
 ---
 
