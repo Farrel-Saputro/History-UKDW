@@ -1,4 +1,4 @@
-# History of Duta Wacana Christian University
+# Sejarah Universitas Kristen Duta Wacana
 
 Website ini merupakan visualisasi perjalanan sejarah Universitas Kristen Duta Wacana (UKDW), dari tahun pendirian hingga masa kini. Dilengkapi dengan informasi penting, pencapaian, dan transformasi dari waktu ke waktu.
 
@@ -41,7 +41,7 @@ Atau sesuai alamat yang muncul di terminal setelah menjalankan `npm run dev`.
 
 Website ini juga bisa diakses secara online melalui link berikut:
 
-👉 **[www.history-ukdw.com](https://history-ukdw.vercel.app/)**
+👉 **[history-ukdw.vercel.app](https://history-ukdw.vercel.app/)**
 
 ---
 
