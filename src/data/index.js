@@ -13,7 +13,7 @@ const events = {
       "Mendapat Dukungan Pemerintah dan Gereja Sinode",
     ],
     paragraph: [
-      "STTh Duta Wacana berdiri sejak tahun 1962 sebagai jawaban atas harapan gereja gereja terhadap peningkatan mutu Pendidikan para pelayan jemaatnya melalui Pendidikan tinggi yang setera dengan universitas.- STTh Duta Wacana merupakan gabungan dari Akademi Teologia Jogjakarta dan Sekolah Teologia Bale Wiyata, Malang",
+      "STTh Duta Wacana berdiri sejak tahun 1962 sebagai jawaban atas harapan gereja gereja terhadap peningkatan mutu Pendidikan para pelayan jemaatnya melalui Pendidikan tinggi yang setara dengan universitas. STTh Duta Wacana merupakan gabungan dari Akademi Teologia Jogjakarta dan Sekolah Teologia Bale Wiyata, Malang",
       "Pada tahun 1982 STTh Duta Wacana bergabung dalam The Association for Theological Education in South East Asia (ATASEA) dan mendapat pengakuan dunia internasional dengan menerima Akreditase Terbaik di seluruh Asia Tenggara dari ATASEA",
       "Mendapatkan pengakuan melalui pemerintah pada tahun 1983- Awalnya STTh hanya didukung oleh 5 gereja saja yaitu Gereja Kristen Jawa (GKJ), Gereja Kristen Indonesia Sinode Wilayah Jawa Tengah (GKI SW Jateng), Majelis Agung Gereja Kristen Jawi Wetan (GKJW), Gereja Kristen Indonesia Sinode Wilayah Jawa Timur (GKI SW JATIM), dan Sinode Gereja Injili di Tanah Jawa (GITJ). Dukungan gereja semakin bertambah dengan bergabungnya Gereja Kristen Indonesia Sinode Wilayah Jawa Barat (GKI SW JABAR), Sinode Gereja Kristen Sumba (GKS), Persatuan Gereja-gereja Kristen Muria Indonesia (GKMI), Sinode Gereja Kristen Pasundan (GKP), Sinode Gereja Kristen Protestan di Bali (GKPB), Sinode Gereja Protestan Indonesia bagian Barat (GPIB), dan Sinode Gereja Kristen Sumatera Bagian Selatan (GKSBS)",
     ],
@@ -27,7 +27,7 @@ const events = {
     pagTitle: ["Berdirilah UKDW", "Fakultas dan Program Studi"],
     paragraph: [
       "31 Oktober secara resmi berdirilah Universitas Kristen Duta Wacana, walaupun secara operasional kegiatan sudah berjalan sejak bulan Mei 1985. Pada tahun pertama dibuka Fakultas Ekonomi Jurusan Manajemen dan Fakultas Teknik Jurusan Arsitektur.",
-      "kemudian berturut-turut, yaitu tahun 1986 dan tahun 1987 didirikan satu jurusan pada Fakultas Teknik, yaitu Jurusan Teknik Informatika dan Jurusan Biologi Lingkungan pada Fakultas Biologi.",
+      "Kemudian berturut-turut, yaitu tahun 1986 dan tahun 1987 didirikan satu jurusan pada Fakultas Teknik, yaitu Jurusan Teknik Informatika dan Jurusan Biologi Lingkungan pada Fakultas Biologi.",
     ],
   },
   "03": {
@@ -39,7 +39,7 @@ const events = {
     pagTitle: ["Pasca Sarjana Pertama", "Mulai Mengembangkan Program Studi"],
     paragraph: [
       "Tahun 1991 UKDW membuka program Pasca Sarjana Theologia",
-      "satu tahun berikutnya pada tahun 2000, Fakultas Ekonomi membuka Jurusan Akuntansi.",
+      "Satu tahun berikutnya pada tahun 2000, Fakultas Ekonomi membuka Jurusan Akuntansi.",
     ],
   },
   "04": {
