@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { ExternalLink, ArrowLeft, ArrowRight } from "lucide-react";
+import { ArrowLeft, ArrowRight } from "lucide-react";
 import data from "../data";
 
 function RektorSection({ id }) {
@@ -16,13 +16,11 @@ function RektorSection({ id }) {
       const isAtEnd = scrollLeft + clientWidth >= scrollWidth - 10;
 
       if (isAtEnd) {
-        // Balik ke awal
         container.scrollTo({
           left: 0,
           behavior: "smooth",
         });
       } else {
-        // Scroll ke kanan seperti biasa
         container.scrollBy({
           left: 400,
           behavior: "smooth",

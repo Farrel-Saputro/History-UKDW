@@ -33,7 +33,6 @@ function Navbar() {
             if (location.pathname !== "/") {
               navigate("/");
             } else {
-              // Scroll ke paling atas jika sudah di halaman utama
               window.scrollTo({ top: 0, behavior: "smooth" });
             }
           }}

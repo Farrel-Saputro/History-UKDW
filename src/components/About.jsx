@@ -3,7 +3,7 @@ import React from "react";
 export default function About({ member }) {
   return (
     <div className="font-inter flex flex-col items-center py-16 px-4 sm:px-6 lg:px-8">
-      {/* Main container for the team section */}
+      {/* Main container */}
       <div className="max-w-6xl w-full">
         {/* Header Section */}
         <h1 className="text-4xl font-bold text-gray-900 mb-4 rounded-md">
@@ -17,7 +17,7 @@ export default function About({ member }) {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
           {member.map((member, index) => (
             <div
-              key={index} // Using index as key, consider a unique ID if available for better performance
+              key={index}
               className="rounded-xl shadow-lg overflow-hidden flex flex-col items-center p-6 text-center transition-transform transform hover:scale-105 duration-300 ease-in-out"
               style={{ backgroundColor: "#F7F2DE" }}
             >
@@ -31,7 +31,7 @@ export default function About({ member }) {
                     e.target.onerror = null;
                     e.target.src =
                       "https://placehold.co/150x150/cccccc/333333?text=No+Image";
-                  }} // Fallback for broken images
+                  }}
                 />
               </div>
               {/* Member Name */}
