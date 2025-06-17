@@ -1,12 +1,70 @@
-# React + Vite
+# History of Duta Wacana Christian University
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website ini merupakan visualisasi perjalanan sejarah Universitas Kristen Duta Wacana (UKDW), dari tahun pendirian hingga masa kini. Dilengkapi dengan informasi penting, pencapaian, dan transformasi dari waktu ke waktu.
 
-Currently, two official plugins are available:
+## 🚀 Cara Menjalankan Project Ini di Lokal
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ikuti langkah-langkah berikut untuk menjalankan project secara lokal:
 
-## Expanding the ESLint configuration
+### 1. Clone Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/Farrel-Saputro/History-UKDW.git
+cd History-UKDW
+```
+
+### 2. Install Dependency
+
+```bash
+npm install
+```
+
+### 3. Jalankan Project
+
+```bash
+npm run dev
+```
+
+### 4. Akses di Browser
+
+Setelah server berjalan, buka browser dan kunjungi:
+
+```
+http://localhost:5173
+```
+
+Atau sesuai alamat yang muncul di terminal setelah menjalankan `npm run dev`.
+
+---
+
+## 🌐 Link Deploy (sementara)
+
+Website ini juga bisa diakses secara online melalui link berikut:
+
+👉 **[www.history-ukdw.com](http://www.history-ukdw.com)**
+
+---
+
+## 👥 Anggota Kelompok
+
+| Nama Lengkap             | NIM      |
+| ------------------------ | -------- |
+| Farrel Ardiyanto Saputro | 71210702 |
+| Bryan Nicholas Winata    | 72210477 |
+| Natalie Yolanda Putri    | 72210498 |
+| Eriani Delina Akob       | 72210518 |
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- Vite
+- React
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dikembangkan untuk keperluan project akhir digital humanities yang bertujuan untuk mendokumentasikan sejarah UKDW.
