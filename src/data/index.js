@@ -44,8 +44,7 @@ const events = {
   },
   "04": {
     sec: "04",
-    title:
-      "Menjadi universitas Kristen unggul dan terpercaya yang melahirkan generasi profesional mandiri bagi dunia pluralistik berdasarkan kasih",
+    title: "Menjadi Universitas Kristen Unggul dan Terpercaya",
     year: ["2004", "2023"],
     thumbnail: IMAGES.sec4,
     image: [IMAGES.ukdwmasakini, IMAGES.prestasi],
